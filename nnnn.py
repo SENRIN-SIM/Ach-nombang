@@ -1,1 +1,1 @@
-hello chet
+print("Hello word")
